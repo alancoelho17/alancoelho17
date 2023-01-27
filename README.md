@@ -5,7 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alanc0elho/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-cardoso-414bb51b7/)
 
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alancoelho17&show_icons=true&theme=dracula)
+![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=alancoelho17&show_icons=true&theme=dracula) <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancoelho17&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+
 
 ## Tecnologias do meu dia a dia
 
